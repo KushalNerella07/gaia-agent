@@ -1,0 +1,17 @@
+# Core Dependencies
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-groq
+langchain-google-genai
+langgraph
+gradio==5.25.2
+requests
+pandas
+python-dotenv
+
+# Tool dependencies
+wikipedia
+arxiv

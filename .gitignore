@@ -1,0 +1,38 @@
+# env / secrets
+.env
+*.env
+.env.*.local
+
+# outputs / local data
+submission*.jsonl
+*.csv
+*.xlsx
+*.parquet
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# venvs & editors
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+.DS_Store
+
+.env
+*.env
+submission*.jsonl
+gaia_debug.log
+gaia_trace.jsonl
+
+.env
+*.env
+submission*.jsonl
+gaia_debug.log
+gaia_trace.jsonl
